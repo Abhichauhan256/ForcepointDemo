@@ -1,0 +1,36 @@
+Management Devices:
+SMC 6.8.1 - 192.168.122.10  (root / Forcepoint1)
+SMC Client - 192.168.122.5 (student / Forcepoint1)
+FSM-8.72   - 192.168.122.20 (Administrator / Forcepoint1)
+SQL        - 192.168.122.9 (sa / Forcepoint1)
+
+ngfw-8.6.1 (192.168.122.2) (root / Forcepoint1)
+eth0 (External) : 192.168.124.2/24
+eth1 (Internal) : 10.10.1.1/24
+eth7 (Mgmt)     : 192.168.122.2/24 
+
+Lan Devices:
+Desktop (User KP) : 10.10.1.10  
+DC (dc.demo.com) - 10.10.1.8 (Administrator / Forcepoint1)
+
+
+
+48e4b341-25df-47ea-9ce0-2e7ed2b7355f
+
+oqa4a0pi471r3c99orceanlroj
+
+https://my-uk.skyfence.com
+
+adm1n@humanpo1nt.com
+F0rc3P0!nt*$3#%
+
+
+http://query.webdefence.global.blackspider.com/?with=all 
+
+
+admin@humanpo1nt.onmicrosoft.com
+F0rc3P0!nt*$3#%
+
+
+
+
